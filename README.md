@@ -1,5 +1,5 @@
 
-<h3 align="center"> PriceWise: A Ecom Price Tracking Application</h3>
+<h3 align="center"> 🕸️PriceWise: A Ecom Price Tracking Application</h3>
 
 ## <a name="introduction"> Introduction</a>
 
